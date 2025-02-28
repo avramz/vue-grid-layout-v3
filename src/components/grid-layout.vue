@@ -135,6 +135,7 @@ const exposeObj = {
   placeholderEl: undefined,
   placeholder: {},
   emitter,
+  layoutUpdate: () => layoutUpdate(),
 };
 defineExpose(exposeObj);
 
