@@ -14,10 +14,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/merfais/vue-grid-layout-v3.git"
+    "url": "https://github.com/avramz/vue-grid-layout-v3.git"
   },
   "author": "coffeebi <merfais.bwq@163.com>",
-  "homepage": "https://github.com/merfais/vue-grid-layout-v3",
+  "homepage": "https://github.com/avramz/vue-grid-layout-v3",
   "type": "module",
   "main": "./dist/vue-grid-layout-v3.umd.js",
   "module": "./dist/vue-grid-layout-v3.js",
